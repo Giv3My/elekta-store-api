@@ -40,10 +40,14 @@ app.use(
   session({
     secret: process.env.SESSION_SECRET,
     name: 'session',
+    proxy: true,
     resave: false,
     saveUninitialized: false,
     store: store,
     cookie: {
+      secure: true,
+      httpOnly: false,
+      sameSite: 'none',
       maxAge: 7 * 24 * 60 * 60 * 1000,
     },
   })
