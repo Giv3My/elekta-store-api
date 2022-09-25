@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "5853",
+    "img": "http://localhost:5000/goods/images/big/5853.jpg",
+    "title": "Mobile phone Apple iPhone 11 64GB",
+    "category_id": "47468",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Smartphones",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/5853_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/5853_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/5853_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/5853_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_4.jpg"
+      },
+      {
+        "id": 5,
+        "big": "http://localhost:5000/goods/images/big/5853_5.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_5.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "purple",
+        "hex": "#cbc7d6"
+      },
+      {
+        "id": 2,
+        "color": "red",
+        "hex": "#dd1c1c"
+      },
+      {
+        "id": 3,
+        "color": "white",
+        "hex": "#f2f2f2"
+      },
+      {
+        "id": 4,
+        "color": "green",
+        "hex": "#a9d3bb"
+      },
+      {
+        "id": 5,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Screen (6.1\", IPS (Liquid Retina HD), 1792x828)",
+      "Apple A13 Bionic",
+      "Main dual camera: 12 MP + 12 MP, frontal camera: 12 MP",
+      "RAM 4 GB",
+      "64 GB internal memory"
+    ],
+    "price": {
+      "old": 399,
+      "new": 259,
+      "current": null
+    },
+    "state": "sale",
+    "rating_stars": 4,
+    "reviews": 5
+  },
+  {
+    "id": "3331",
+    "img": "http://localhost:5000/goods/images/big/3331.jpg",
+    "title": "Smartphone XIAOMI Redmi 9A 2/32GB blue",
+    "category_id": "47468",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Smartphones",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/3331_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/3331_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/3331_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/3331_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/3331_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/3331_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/3331_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/3331_4.jpg"
+      },
+      {
+        "id": 5,
+        "big": "http://localhost:5000/goods/images/big/3331_5.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/3331_5.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "hex": "#3333FF"
+      },
+      {
+        "id": 2,
+        "color": "green",
+        "hex": "#016871"
+      },
+      {
+        "id": 3,
+        "color": "gray",
+        "hex": "#666666"
+      }
+    ],
+    "details": [
+      "Screen (6.53\", IPS, 1792x828)",
+      "Main camera: 13 MP, frontal camera: 5 MP",
+      "RAM 4 GB",
+      "OS Android"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 159
+    },
+    "state": "new",
+    "rating_stars": 5,
+    "reviews": 15
+  },
+  {
+    "id": "5481",
+    "img": "http://localhost:5000/goods/images/big/5481.jpg",
+    "title": "Smartphone Apple iPhone 12 128Gb Purple",
+    "category_id": "47468",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Smartphones",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/5481_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5481_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/5481_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5481_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/5481_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5481_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/5481_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5481_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "purple",
+        "hex": "#b1a8df"
+      },
+      {
+        "id": 2,
+        "color": "red",
+        "hex": "#dd1c1c"
+      },
+      {
+        "id": 3,
+        "color": "white",
+        "hex": "#f2f2f2"
+      },
+      {
+        "id": 4,
+        "color": "green",
+        "hex": "#ddf4d8"
+      },
+      {
+        "id": 5,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Screen (6.1\", OLED (Super Retina XDR), 2532x1170",
+      "Apple A14 Bionic",
+      "Main dual camera: 12 MP + 12 MP, frontal camera: 12 MP",
+      "RAM 4 GB",
+      "128 GB internal memory"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 359
+    },
+    "state": "new",
+    "rating_stars": 5,
+    "reviews": 5
+  },
+  {
+    "id": "7490",
+    "img": "http://localhost:5000/goods/images/big/7490.jpg",
+    "title": "Samsung Galaxy A13 3/32GB Blue(SM-A135)",
+    "category_id": "47468",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Smartphones",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/7490_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/7490_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/7490_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/7490_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/7490_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/7490_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/7490_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/7490_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "light blue",
+        "hex": "#c1eeff"
+      },
+      {
+        "id": 2,
+        "color": "black",
+        "hex": "#2e2f2a"
+      },
+      {
+        "id": 3,
+        "color": "white",
+        "hex": "#f2f2f2"
+      }
+    ],
+    "details": [
+      "Screen (6.6\", PLS, 2408x1080)",
+      "Apple A13 Bionic",
+      "Main quad camera: 50 MP + 5 MP + 2 MP + 2 MP, frontal camera: 8 MP",
+      "RAM 4 GB",
+      "64 GB internal memory"
+    ],
+    "price": {
+      "old": 235,
+      "new": 199,
+      "current": null
+    },
+    "state": "sale",
+    "rating_stars": 3,
+    "reviews": 3
+  },
+  {
+    "id": "5853",
+    "img": "http://localhost:5000/goods/images/big/5853(2).jpg",
+    "title": "Mobile phone Apple iPhone 11 64GB",
+    "category_id": "47468",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Smartphones",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/5853_1(2).jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_1(2).jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/5853_2(2).jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_2(2).jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/5853_3(2).jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_3(2).jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/5853_4(2).jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_4(2).jpg"
+      },
+      {
+        "id": 5,
+        "big": "http://localhost:5000/goods/images/big/5853_5(2).jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5853_5(2).jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "green",
+        "hex": "#a9d3bb"
+      },
+      {
+        "id": 2,
+        "color": "purple",
+        "hex": "#cbc7d6"
+      },
+      {
+        "id": 3,
+        "color": "red",
+        "hex": "#dd1c1c"
+      },
+      {
+        "id": 4,
+        "color": "white",
+        "hex": "#f2f2f2"
+      },
+      {
+        "id": 5,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Screen (6.1\", IPS (Liquid Retina HD), 1792x828)",
+      "Apple A13 Bionic",
+      "Main dual camera: 12 MP + 12 MP, frontal camera: 12 MP",
+      "RAM 4 GB",
+      "64 GB internal memory"
+    ],
+    "price": {
+      "old": 399,
+      "new": 259,
+      "current": null
+    },
+    "state": "sale",
+    "rating_stars": 4,
+    "reviews": 5
+  },
+  {
+    "id": "9955",
+    "img": "http://localhost:5000/goods/images/big/9955.jpg",
+    "title": "Mobile phone Apple iPhone 14 128GB",
+    "category_id": "47468",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Smartphones",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/9955_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/9955_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/9955_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/9955_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/9955_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/9955_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/9955_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/9955_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "midnight",
+        "hex": "#1b222a"
+      },
+      {
+        "id": 2,
+        "color": "purple",
+        "hex": "#e7Dfee"
+      },
+      {
+        "id": 3,
+        "color": "red",
+        "hex": "#fb0124"
+      },
+      {
+        "id": 4,
+        "color": "white",
+        "hex": "#f2f2f2"
+      },
+      {
+        "id": 5,
+        "color": "blue",
+        "hex": "#a2b5c6"
+      }
+    ],
+    "details": [
+      "Screen (6.1\", OLED (Super Retina XDR), 2532x1170)",
+      "Apple A15 Bionic",
+      "Main dual camera: 12 MP + 12 MP, frontal camera: 12 MP",
+      "RAM 6 GB",
+      "128 GB internal memory"
+    ],
+    "price": {
+      "old": 1159,
+      "new": 1129,
+      "current": null
+    },
+    "state": "new",
+    "rating_stars": 3,
+    "reviews": 3
+  },
+  {
+    "id": "6663",
+    "img": "http://localhost:5000/goods/images/big/6663.jpg",
+    "title": "Samsung Galaxy Flip 4",
+    "category_id": "47468",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Smartphones",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/6663_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/6663_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/6663_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/6663_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/6663_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/6663_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/6663_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/6663_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "purple",
+        "hex": "#c0b3d1"
+      },
+      {
+        "id": 2,
+        "color": "blue",
+        "hex": "#bfc7dc"
+      },
+      {
+        "id": 3,
+        "color": "black",
+        "hex": "#262a2b"
+      }
+    ],
+    "details": [
+      "Screen (1.9\" Super AMOLED, 512х260) + (6.7\", Dynamic AMOLED 2X, 2640x1080)",
+      "Qualcomm Snapdragon 8 Gen 1",
+      "Main dual camera: 12 MP + 12 MP, frontal camera: 10 MP",
+      "RAM 8 GB",
+      "256 GB internal memory"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 1159
+    },
+    "state": null,
+    "rating_stars": 3,
+    "reviews": 2
+  },
+  {
+    "id": "1789",
+    "img": "http://localhost:5000/goods/images/big/1789.jpg",
+    "title": "Samsung Galaxy M13 4/64GB",
+    "category_id": "47468",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Smartphones",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/1789_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/1789_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/1789_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/1789_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/1789_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/1789_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/1789_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/1789_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "purple",
+        "hex": "#c0b3d1"
+      },
+      {
+        "id": 2,
+        "color": "blue",
+        "hex": "#bfc7dc"
+      },
+      {
+        "id": 3,
+        "color": "black",
+        "hex": "#262a2b"
+      }
+    ],
+    "details": [
+      "(6.6\", PLS, 2408x1080)",
+      "Samsung Exynos 850 (2.0 GHz)",
+      "Main tripple camera: 50 MP + 5 MP + 2 MP, frontal camera: 8 MP",
+      "RAM 4 GB",
+      "64 GB internal memory"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 199
+    },
+    "state": null,
+    "rating_stars": 1,
+    "reviews": 1
+  },
+  {
+    "id": "1224",
+    "img": "http://localhost:5000/goods/images/big/1224.png",
+    "title": "Gaming PC bu",
+    "category_id": "48708",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Computers",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/1224.png",
+        "preview": "http://localhost:5000/goods/images/preview/1224_1.png"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "red",
+        "hex": "#dd1c1c"
+      },
+      {
+        "id": 2,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Intel Core i5-10400F (2.9 - 4.3 GHz)",
+      "nVidia GeForce GTX 1660, 6 GB",
+      "RAM 16 GB",
+      "HDD 1 TB + SSD 240 GB"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 799
+    },
+    "state": null,
+    "rating_stars": 4,
+    "reviews": 3
+  },
+  {
+    "id": "1359",
+    "img": "http://localhost:5000/goods/images/big/1359.png",
+    "title": "EXPERTPC THUNDER",
+    "category_id": "48708",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Computers",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/1359.png",
+        "preview": "http://localhost:5000/goods/images/preview/1359_1.png"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "hex": "#57ebeb"
+      }
+    ],
+    "details": [
+      "AMD Ryzen 5 5500 (3.6 - 4.2 GHz)",
+      "nVidia GeForce RTX 3060, 12 GB",
+      "RAM 16 GB",
+      "HDD 1 TB + SSD 240 GB"
+    ],
+    "price": {
+      "old": 1099,
+      "new": 999,
+      "current": null
+    },
+    "state": "sale",
+    "rating_stars": 5,
+    "reviews": 2
+  },
+  {
+    "id": "6010",
+    "img": "http://localhost:5000/goods/images/big/6010.png",
+    "title": "EXPERTPC LIGHT 2.1.4",
+    "category_id": "48708",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Computers",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/6010.png",
+        "preview": "http://localhost:5000/goods/images/preview/6010_1.png"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "AMD Ryzen 5 3600 (3.6 - 4.2 ГГц)",
+      "nVidia GeForce GTX 1650, 4 GB",
+      "RAM 16 GB",
+      "SSD 480 GB"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 650
+    },
+    "state": null,
+    "rating_stars": 4,
+    "reviews": 6
+  },
+  {
+    "id": "7221",
+    "img": "http://localhost:5000/goods/images/big/7221.png",
+    "title": "Overlord RTX P99",
+    "category_id": "48708",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Computers",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/7221.png",
+        "preview": "http://localhost:5000/goods/images/preview/7221_1.png"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Intel Core i9-11900F (2.5 - 5.2 GHz)",
+      "nVidia GeForce RTX 3070, 8 GB",
+      "RAM 32 GB",
+      "HDD 2 TB + SSD 512 GB"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 11165.34
+    },
+    "state": "new",
+    "rating_stars": 0,
+    "reviews": 0
+  },
+  {
+    "id": "7943",
+    "img": "http://localhost:5000/goods/images/big/7943.jpg",
+    "title": "TV Samsung UE58AU7100UXUA",
+    "category_id": "56265",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "TVs",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/7943_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/7943_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/7943_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/7943_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/7943_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/7943_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/7943_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/7943_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Screen diagonal 58\"",
+      "Resolution 3840x2160",
+      "OS Tizen",
+      "Available tuner ranges DVB-T2, DVB-S2"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 679
+    },
+    "state": "new",
+    "rating_stars": 0,
+    "reviews": 0
+  },
+  {
+    "id": "8170",
+    "img": "http://localhost:5000/goods/images/big/8170.jpg",
+    "title": "TV Xiaomi Mi TV P1 43 Black",
+    "category_id": "56265",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "TVs",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/8170_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8170_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/8170_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8170_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/8170_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8170_3.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Screen diagonal 43\"",
+      "Resolution 3840x2160",
+      "OS Android 10.0",
+      "Available tuner ranges DVB-C DVB-S2 DVB-T DVB-T2",
+      "Frequency 60 Hz"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 500
+    },
+    "state": null,
+    "rating_stars": 5,
+    "reviews": 10
+  },
+  {
+    "id": "8931",
+    "img": "http://localhost:5000/goods/images/big/8931.jpg",
+    "title": "TV Samsung UE55AU9000UXUA",
+    "category_id": "56265",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "TVs",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/8931_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8931_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/8931_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8931_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/8931_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8931_3.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Screen diagonal 55\"",
+      "Resolution 3840x2160",
+      "OS Tizen",
+      "Available tuner ranges DVB-C DVB-S2 DVB-T2"
+    ],
+    "price": {
+      "old": 759,
+      "new": 699,
+      "current": null
+    },
+    "state": "sale",
+    "rating_stars": 4,
+    "reviews": 6
+  },
+  {
+    "id": "8938",
+    "img": "http://localhost:5000/goods/images/big/8938.png",
+    "title": "LG 43UN7300",
+    "category_id": "56265",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "TVs",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/8938.png",
+        "preview": "http://localhost:5000/goods/images/preview/8938_1.png"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Screen diagonal 43\"",
+      "Resolution 3840x2160",
+      "Available tuner ranges DVB-C DVB-S DVB-S2 DVB-T2",
+      "Frequency 60 Hz"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 539
+    },
+    "state": "new",
+    "rating_stars": 5,
+    "reviews": 5
+  },
+  {
+    "id": "4539",
+    "img": "http://localhost:5000/goods/images/big/4539.jpg",
+    "title": "AMD Ryzen 5 5600G",
+    "category_id": "22962",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Computer Parts",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/4539_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/4539_1.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Processor family AMD Ryzen 5",
+      "Connector type Socket AM4",
+      "Integrated graphics AMD Radeon Vega 7",
+      "Number of cores 6",
+      "Frequency 3900 MHz"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 189
+    },
+    "state": null,
+    "rating_stars": 4,
+    "reviews": 49
+  },
+  {
+    "id": "9547",
+    "img": "http://localhost:5000/goods/images/big/9547.jpg",
+    "title": "RAM Kingston Fury DDR4-3200",
+    "category_id": "22962",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Computer Parts",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/9547_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/9547_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/9547_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/9547_2.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Memory size 32 GB",
+      "Memory type DDR4 SDRAM",
+      "Memory frequency 3200 MHz",
+      "Number of slats 2"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 139
+    },
+    "state": null,
+    "rating_stars": 5,
+    "reviews": 54
+  },
+  {
+    "id": "6943",
+    "img": "http://localhost:5000/goods/images/big/6943.jpg",
+    "title": "Motherboard MSI MPG Z490 Gaming Plus",
+    "category_id": "22962",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Computer Parts",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/6943_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/6943_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/6943_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/6943_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/6943_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/6943_3.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Socket Socket 1200",
+      "Memory support 4 x DDR4 DIMM; Number of slots 2",
+      "Form factor ATX",
+      "Processor Support Intel Core / Pentium Gold / Celeron 10 gen socket LGA1200"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 179
+    },
+    "state": null,
+    "rating_stars": 4,
+    "reviews": 49
+  },
+  {
+    "id": "5263",
+    "img": "http://localhost:5000/goods/images/big/5263.jpg",
+    "title": "Power supply Cougar GX 1050W",
+    "category_id": "22962",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Computer Parts",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/5263_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5263_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/5263_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5263_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/5263_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/5263_3.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Power 1050 Wt",
+      "Special properties Modular cable connection",
+      "Cooling Fan 140 MM"
+    ],
+    "price": {
+      "old": 160,
+      "new": 140,
+      "current": null
+    },
+    "state": "sale",
+    "rating_stars": 3,
+    "reviews": 1
+  },
+  {
+    "id": "1688",
+    "img": "http://localhost:5000/goods/images/big/1688.jpg",
+    "title": "Samsung Galaxy Tab S6",
+    "category_id": "31137",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Tablets",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/1688_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/1688_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/1688_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/1688_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/1688_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/1688_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/1688_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/1688_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "blue",
+        "hex": "#8babb8"
+      },
+      {
+        "id": 2,
+        "color": "pink",
+        "hex": "#ae9694"
+      },
+      {
+        "id": 3,
+        "color": "gray",
+        "hex": "#484649"
+      }
+    ],
+    "details": [
+      "Screen 10.4\" TFT (2000x1200) MultiTouch",
+      "Qualcomm Snapdragon 720G (2.3 GHz + 1.8 GHz)",
+      "RAM 4 GB",
+      "64 GB internal memory + microSD"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 339
+    },
+    "state": null,
+    "rating_stars": 4,
+    "reviews": 172
+  },
+  {
+    "id": "2526",
+    "img": "http://localhost:5000/goods/images/big/2526.jpg",
+    "title": "Samsung Galaxy Tab A8",
+    "category_id": "31137",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Tablets",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/2526_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/2526_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/2526_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/2526_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/2526_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/2526_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/2526_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/2526_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "gray",
+        "hex": "#404042"
+      }
+    ],
+    "details": [
+      "Screen 10.5\" (1920x1200) MultiTouch",
+      "Unisoc Tiger T618 (2.0 GHz)",
+      "RAM 3 GB",
+      "32 GB internal memory + microSD"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 235
+    },
+    "state": null,
+    "rating_stars": 4,
+    "reviews": 10
+  },
+  {
+    "id": "8891",
+    "img": "http://localhost:5000/goods/images/big/8891.jpg",
+    "title": "Apple iPad mini 2021",
+    "category_id": "31137",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Tablets",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/8891_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8891_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/8891_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8891_2.jpg"
+      },
+      {
+        "id": 3,
+        "big": "http://localhost:5000/goods/images/big/8891_3.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8891_3.jpg"
+      },
+      {
+        "id": 4,
+        "big": "http://localhost:5000/goods/images/big/8891_4.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8891_4.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "pink",
+        "hex": "#bea9a4"
+      },
+      {
+        "id": 1,
+        "color": "purple",
+        "hex": "#9391a7"
+      },
+      {
+        "id": 1,
+        "color": "space gray",
+        "hex": "#414143"
+      }
+    ],
+    "details": [
+      "Screen 8.3\" Retina (2266х1488) MultiTouch",
+      "Apple A15 Bionic",
+      "Main camera: 12 MP, frontal 12 MP",
+      "64 GB internal memory"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 600
+    },
+    "state": null,
+    "rating_stars": 4,
+    "reviews": 6
+  },
+  {
+    "id": "8501",
+    "img": "http://localhost:5000/goods/images/big/8501.jpg",
+    "title": "Oukitel Pad RT1",
+    "category_id": "31137",
+    "breadcrumbs": [
+      {
+        "id": 911,
+        "title": "Home",
+        "path": "/"
+      },
+      {
+        "id": 912,
+        "title": "Tablets",
+        "path": ""
+      }
+    ],
+    "images": [
+      {
+        "id": 1,
+        "big": "http://localhost:5000/goods/images/big/8501_1.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8501_1.jpg"
+      },
+      {
+        "id": 2,
+        "big": "http://localhost:5000/goods/images/big/8501_2.jpg",
+        "preview": "http://localhost:5000/goods/images/preview/8501_2.jpg"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "color": "black",
+        "hex": "#2e2f2a"
+      }
+    ],
+    "details": [
+      "Screen 10.1\" IPS (2160x1080)",
+      "MediaTek Helio P22T (2.3 GHz)",
+      "RAM 4 GB",
+      "64 GB internal memory"
+    ],
+    "price": {
+      "old": null,
+      "new": null,
+      "current": 319
+    },
+    "state": null,
+    "rating_stars": 0,
+    "reviews": 0
+  }
+]
