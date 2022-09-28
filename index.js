@@ -36,6 +36,13 @@ app.use(
   })
 );
 
+const sessionCookieOptions = {
+  httpOnly: false,
+  secure: process.env.NODE_ENV !== 'dev' ? true : null,
+  sameSite: process.env.NODE_ENV !== 'dev' ? 'none' : null,
+  maxAge: 7 * 24 * 60 * 60 * 1000,
+};
+
 app.use(
   session({
     secret: process.env.SESSION_SECRET,
@@ -44,12 +51,7 @@ app.use(
     resave: false,
     saveUninitialized: false,
     store: store,
-    cookie: {
-      secure: true,
-      httpOnly: false,
-      sameSite: 'none',
-      maxAge: 7 * 24 * 60 * 60 * 1000,
-    },
+    cookie: sessionCookieOptions,
   })
 );
 

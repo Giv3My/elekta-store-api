@@ -27,7 +27,7 @@ transporter.use(
 const sendEmail = async (order) => {
   await new Promise(() => {
     transporter.sendMail({
-      from: process.env.MAIL_USER,
+      from: process.env.MAIL_FROM,
       to: order.contacts.email,
       subject: 'Elekta Store New Order',
       template: 'index',
